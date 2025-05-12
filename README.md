@@ -1,0 +1,1 @@
+# japan_itenerary_generator
